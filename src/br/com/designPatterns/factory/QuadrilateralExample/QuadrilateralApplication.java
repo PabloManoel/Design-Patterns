@@ -1,4 +1,4 @@
-package br.com.designPatterns.factory.Quadrilateral;
+package br.com.designPatterns.factory.QuadrilateralExample;
 
 public class QuadrilateralApplication {
 
