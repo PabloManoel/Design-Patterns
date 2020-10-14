@@ -1,4 +1,4 @@
-package br.com.designPatterns.factory.AnimalExample;
+package br.com.designPatterns.factory.animalExample;
 
 public class Shark extends Animal{
 
